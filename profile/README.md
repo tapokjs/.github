@@ -4,7 +4,7 @@
 
 Авторизация через Сбер ID для сервисов, которым не нужен чужой профиль.
 
-[Сайт](https://tapok.orria.space) · [Документация](https://tapok.orria.space/docs) · [SDK](https://github.com/tapokjs/monorepo/tree/main/sdk)
+[Сайт](https://tapok.orria.space) · [Документация](https://tapok.orria.space/docs) · [SDK](https://github.com/tapokjs/sdk) · [core](https://github.com/tapokjs/core)
 
 </div>
 
